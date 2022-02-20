@@ -28,7 +28,7 @@ const char* password = ""; //EDIT PASSWORD
 String town="London";              //EDIT TOWN
 String Country="GB";                //EDIT COUNTRY
 const String endpoint = "http://api.openweathermap.org/data/2.5/weather?q="+town+","+Country+"&units=metric&APPID=";
-const String key = "3c3e0fd309593b6c33213af04b2b2fa0"; /*EDIT API KEY                     */
+const String key = ""; /*EDIT API KEY                     */
 
 String payload=""; //whole json 
  String tmp="" ; //temperature
